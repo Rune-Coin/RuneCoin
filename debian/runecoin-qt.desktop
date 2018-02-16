@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=runecoin
+Comment=runecoin P2P Cryptocurrency
+Comment[fr]=runecoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=runecoin, eşten eşe kriptografik sanal para birimi
+Exec=runecoin-qt %u
+Terminal=false
+Type=Application
+Icon=runecoin128
+MimeType=x-scheme-handler/runecoin;
+Categories=Office;Finance;

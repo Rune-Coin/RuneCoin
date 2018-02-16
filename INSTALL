@@ -1,0 +1,5 @@
+Building runecoin
+
+See doc/build-*.md for instructions on building runecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of runecoin.

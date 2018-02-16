@@ -1,0 +1,3 @@
+debian/manpages/runecoind.1
+debian/manpages/runecoin-qt.1
+debian/manpages/runecoin.conf.5

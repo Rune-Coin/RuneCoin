@@ -1,0 +1,4 @@
+runecoin-qt usr/bin
+media/pixmaps/runecoin.png usr/share/pixmaps
+debian/runecoin-qt.desktop usr/share/applications
+debian/runecoin-qt.protocol usr/share/kde4/services/

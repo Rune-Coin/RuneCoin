@@ -1,0 +1,13 @@
+Source: runecoin
+Section: misc
+Priority: optional
+Maintainer: runecoin
+Build-Depends: debhelper (>= 9.0.0), autotools-dev
+Standards-Version: 3.9.5
+Homepage: http://www.runecoin.co
+
+Package: runecoin
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Official software wallet for the crypto currency runecoin
+ <insert long description, indented with spaces>

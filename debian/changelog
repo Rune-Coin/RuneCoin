@@ -1,0 +1,36 @@
+runecoin (2017.02.1.0-0ubuntu1) xenial; urgency=low
+
+  * Improved wallet loading speed.
+  * New checkpoints and updated seeds.
+  * Versioning code improvements.
+  * In-wallet miner improvements.
+  * Removal of testnet and regnet code.
+  * Removal of Tor/Onion routing network support.
+
+ -- runecoin foundation <Runecoin.co>  Fri, 17 Feb 2017 16:48:00 +0100
+
+runecoin (2017.08.1.0-0ubuntu1) trusty; urgency=low
+
+  * New checkpoints.
+  * Restore original difficulties for all algorithms.
+  * Update to Berkeley DB 5.3 branch.
+
+ -- runecoin foundation <Runecoin.co>  Mon, 01 Aug 2017 22:38:00 +0200
+
+runecoin (2017.05.1.0-0ubuntu1) trusty; urgency=low
+
+  * Rebuild of the 2017.04.1.0 release to include the actual fix.
+
+ -- runecoin foundation <Runecoin.co>  Fri, 13 May 2017 15:17:00 +0200
+
+runecoin (2017.04.1.0-0ubuntu1) trusty; urgency=low
+
+  * Small fix regarding import of private keys from paper wallets.
+
+ -- runecoin foundation <Runecoin.co>  Mon, 25 Apr 2017 13:15:00 +0200
+
+runecoin (2017.03.1.0-0ubuntu1) trusty; urgency=low
+
+  * First Ubuntu package release.
+
+ -- runecoin foundation <Runecoin.co>  Tue, 08 Mar 2017 12:30:00 +0100
