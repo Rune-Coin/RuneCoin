@@ -21,4 +21,4 @@ Website: http://runecoin.co
 
 Developers are encouraged to create tools for runecoin to support the adoption of runecoin. Such software, e.g. for payments, will help everyone to start using the currency in their daily lives.
 
-Interested in helping out? Please email runecoin@runecoin.com, and let us know how you can help.
+Interested in helping out? Please email support@runecoin.co, and let us know how you can help.
